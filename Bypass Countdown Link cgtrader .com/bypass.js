@@ -1,7 +1,8 @@
 // bypass by ./0xd1m5
 function bypassLink(){
 	let jumlah_link = document.querySelector("ul.details-box__list").childElementCount;
-	let base_link   = "https://www.cgtrader.com";
+	// ganti '#' menjadi '.'
+	let base_link   = "https://www#cgtrader#com";
 	
 	console.log(`\n\n\n [#] Bypass Countdown LINK by ./0xd1m5 @(${base_link})\n\n\n\n`)
 
