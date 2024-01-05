@@ -1,3 +1,4 @@
+# CATATAN
 1. Buka inspect element (klik kanan, pilih "inspect" atau tekan Ctrl+Shift+I).
 2. Pergi ke tab CONSOLE.
 3. Salin dan tempelkan kode berikut ke dalam console:
