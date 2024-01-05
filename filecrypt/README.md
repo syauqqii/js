@@ -1,8 +1,5 @@
 # **CATATAN**
-> Jika Anda berada di halaman web filecrypt dan melihat daftar tombol yang ditampilkan untuk mengunduh,<br>
-
-
-> langkah-langkah berikut dapat membantu:
+> Jika Anda berada di halaman web filecrypt dan melihat daftar tombol yang ditampilkan untuk mengunduh, langkah-langkah berikut dapat membantu:
 
 
 
