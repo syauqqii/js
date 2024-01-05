@@ -17,3 +17,6 @@ document.querySelectorAll('button.download').forEach(
 );
 ```
 4. Tekan ENTER.
+> Kegunaan:
+Ini akan membuat tab baru muncul secara otomatis. Pastikan untuk mengizinkan situs untuk membuka tab baru jika perlu.
+Dengan langkah ini, Anda dapat membuka semua tab tanpa harus menghadapi iklan yang mengganggu.
